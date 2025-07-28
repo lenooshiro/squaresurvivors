@@ -13,8 +13,8 @@ layer = -1
 [node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
 offset_left = 2.0
 offset_top = 2.0
-offset_right = 857.0
-offset_bottom = 638.0
+offset_right = 1913.0
+offset_bottom = 1084.0
 
 [node name="Player" parent="." instance=ExtResource("1_3cish")]
 position = Vector2(425, 329)
